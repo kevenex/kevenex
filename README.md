@@ -10,7 +10,7 @@
 
 📍 Toronto, Canada
 
-**I enjoy prototyping to visualize my ideas and learning how data can change the world.**
+**I enjoy prototyping to visualize my ideas and learning how data can help companies.**
 
 I'm a data product manager at a large travel-tech company, with a view across all of the company's data and the products that depend on it:
 finance, risk, analytics, partner operations, and the AI products being built on top.
